@@ -1,4 +1,4 @@
-# comments-app-with-api
+# Comments App with Api
 
 To Build the project.
 Go to root directory and run:
