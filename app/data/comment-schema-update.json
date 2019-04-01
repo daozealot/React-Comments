@@ -1,0 +1,21 @@
+{
+    "title": "Comment",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "string"
+        },
+        "comment": {
+            "type": "string",
+            "maxLength": 100
+        },
+        "timestamp": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "id",
+        "comment",
+        "timestamp"
+    ]
+}
